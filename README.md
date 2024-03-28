@@ -1,4 +1,4 @@
-# CTSMatch
-A SSL framework towards CTS classification.
+# Semi-Supervised Deep Learning Framework for Interpretable Architectural Style Classification of Chinese Traditional Settlements
+CTSMatch：A SSL framework towards CTS classification.
 
-The code will be accessed on 1 January 2024.
+The code and the dataset will be accessed soon.
