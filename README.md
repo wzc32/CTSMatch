@@ -1,26 +1,11 @@
-# Enhancing Architectural Style Classification of Chinese Traditional Settlements through Semi-Supervised Deep Learning
+# Semi-Supervised Geospatial AI for Architectural Style Classification and Lineage Discovery in Chinese Traditional Settlements
 
-## Overview
+**Qing Han**, Zicheng Wang, Chao Yin, Zhiwei Hou, Tianci Yao
 
-**"Enhancing Architectural Style Classification of Chinese Traditional Settlements through Semi-Supervised Deep Learning"**
+---
 
-by Zicheng WANG, Chao YIN, Qing HAN, Zhiwei HOU, and Tianci YAO.
+**Status:** Paper under review at *ISPRS International Journal of Geo-Information* (IJGI).
 
-The paper introduces **CTSMatch**, a novel semi-supervised deep learning framework for classifying architectural styles in Chinese traditional settlements (CTS) with high accuracy and label efficiency. The project also presents **Semi-CTS**, a new benchmark dataset for this task.
+**Code & Data:** The SemiCTS dataset and CTSMatch framework will be released upon paper acceptance.
 
-## How to use?
-
-TODO
-
-## Citation
-
-If you use CTSMatch or the Semi-CTS dataset, please cite:
-
-```
-@article{wang2025ctsmatch,
-  title={Enhancing Architectural Style Classification of Chinese Traditional Settlements through Semi-Supervised Deep Learning},
-  author={Wang, Zicheng and Yin, Chao and Han, Qing and Hou, Zhiwei and Yao, Tianci},
-  journal={TBD},
-  year={2025}
-}
-```
+*Stay tuned.*
