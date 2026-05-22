@@ -10,7 +10,7 @@ This repository contains the official code implementation for the paper publishe
 - **DOI**: [10.3390/ijgi15050221](https://doi.org/10.3390/ijgi15050221)
 - **Link**: https://www.mdpi.com/2220-9964/15/5/221
 
-### Supported Models
+## Supported Models
 
 We provide pre-trained weights and training configurations for the following semi-supervised learning models:
 
@@ -20,7 +20,7 @@ We provide pre-trained weights and training configurations for the following sem
 
 The implementation is built on [**TorchSSL**](https://github.com/TorchSSL/TorchSSL), a comprehensive semi-supervised learning framework that provides unified interfaces for various SSL algorithms.
 
-### Dataset
+## Dataset
 
 SemiCTS is a dataset extends [**labeled CTS dataset**](https://github.com/PointCloudYC/CTS) with 4360 unlabeled images.
 
@@ -31,7 +31,7 @@ The released dataset is divided into three independent subsets:
 
 Data partition ratio and usage rules strictly follow the scheme described in the original paper.
 
-### Citation
+## Citation
 
 If you use this code or models in your research, please cite our paper:
 
